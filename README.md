@@ -6,7 +6,9 @@ What you can find in this project:
 
 * It contains four different .html pages
 
-* Materials such as list, table, image, form, button, map and ...
+* Materials such as list, table, image, form, button, map, grid and ...
+
+* use different css selector type such as id, class, child selector, descendant, ...
 
 * stylesheet which is written in SCSS
   * SCSS is compiled and the result can be seen in /css/style.css
